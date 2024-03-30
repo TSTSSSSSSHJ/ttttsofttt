@@ -23,11 +23,10 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
-
-       <dependency>
-    <groupId>com.github.bilak</groupId>
-    <artifactId>restcountries</artifactId>
-    <version>1.1</version> <!-- Adjust version if needed -->
+<dependency>
+    <groupId>com.github.apilayer</groupId>
+    <artifactId>restcountries-java</artifactId>
+    <version>1.0.3</version> <!-- Adjust version if needed -->
 </dependency>
 
         <!-- Other dependencies -->
